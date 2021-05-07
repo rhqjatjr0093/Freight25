@@ -1195,13 +1195,6 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@mauron85/react-native-background-geolocation@^0.6.3":
-  version "0.6.3"
-  resolved "https://registry.yarnpkg.com/@mauron85/react-native-background-geolocation/-/react-native-background-geolocation-0.6.3.tgz#9d0133e42021fbfa0ff7b6283d9561a18f127a2f"
-  integrity sha512-Q4o6OcCooYC4WrddrXS73pqAzowbxwuI3xOjOo2eYYWhNZCs+mioR2T5tij/pqUoJEfzt1h52Yn1a3rhRflKLQ==
-  dependencies:
-    plist "^3.0.1"
-
 "@react-native-community/async-storage@^1.11.0":
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/async-storage/-/async-storage-1.11.0.tgz#bf81b8813080846f150c67f531987c429b442166"
@@ -7978,9 +7971,9 @@ typescript@^3.9.5:
   integrity sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
